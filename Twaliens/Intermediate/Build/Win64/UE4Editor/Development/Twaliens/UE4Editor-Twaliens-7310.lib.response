@@ -1,0 +1,41 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Twaliens-7310.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\TwaliensEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\BasicWarrior.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\BasicWarriorController.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\Camera.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\CharacterManager.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\CheckEnemyAtMeleeRange.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\Dustpan.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\LifeComponent.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\LookAtRange.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\MoveToActor.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\NeedToChasePlayer.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\ProjectileA.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\Twalien.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\Twaliens.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\TwaliensGameModeBase.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\Weapon.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\BasicWarrior.gen.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\BasicWarriorController.gen.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\Camera.gen.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\CharacterManager.gen.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\CheckEnemyAtMeleeRange.gen.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\Dustpan.gen.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\LifeComponent.gen.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\LookAtRange.gen.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\MoveToActor.gen.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\NeedToChasePlayer.gen.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\ProjectileA.gen.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\Twalien.gen.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\Twaliens.init.gen.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\TwaliensGameModeBase.gen.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\Weapon.gen.cpp.obj"
+"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\PCLaunch.rc.res"
+/OUT:"D:\Master de videojuegos Madrid\Grupo4\Grupo4\Twaliens\Intermediate\Build\Win64\UE4Editor\Development\Twaliens\UE4Editor-Twaliens-7310.lib"

@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Twaliens.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{83464F24-3D29-46C5-B100-AFA010114E8D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Twaliens.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TwaliensEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{DE58B477-EDAE-4AEE-B1F2-4F699F0F0F8A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Twaliens">
+      <UniqueIdentifier>{F07D4AFC-CC09-428E-9704-D27E9474F8AA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Twaliens\BasicWarrior.cpp">
+      <Filter>Source\Twaliens</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Twaliens\BasicWarrior.h">
+      <Filter>Source\Twaliens</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Twaliens\BasicWarriorController.cpp">
+      <Filter>Source\Twaliens</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Twaliens\BasicWarriorController.h">
+      <Filter>Source\Twaliens</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Twaliens\Camera.cpp">
+      <Filter>Source\Twaliens</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Twaliens\Camera.h">
+      <Filter>Source\Twaliens</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Twaliens\CharacterManager.cpp">
+      <Filter>Source\Twaliens</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Twaliens\CharacterManager.h">
+      <Filter>Source\Twaliens</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Twaliens\CheckEnemyAtMeleeRange.cpp">
+      <Filter>Source\Twaliens</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Twaliens\CheckEnemyAtMeleeRange.h">
+      <Filter>Source\Twaliens</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Twaliens\Dustpan.cpp">
+      <Filter>Source\Twaliens</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Twaliens\Dustpan.h">
+      <Filter>Source\Twaliens</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Twaliens\LifeComponent.cpp">
+      <Filter>Source\Twaliens</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Twaliens\LifeComponent.h">
+      <Filter>Source\Twaliens</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Twaliens\LookAtRange.cpp">
+      <Filter>Source\Twaliens</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Twaliens\LookAtRange.h">
+      <Filter>Source\Twaliens</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Twaliens\MoveToActor.cpp">
+      <Filter>Source\Twaliens</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Twaliens\MoveToActor.h">
+      <Filter>Source\Twaliens</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Twaliens\NeedToChasePlayer.cpp">
+      <Filter>Source\Twaliens</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Twaliens\NeedToChasePlayer.h">
+      <Filter>Source\Twaliens</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Twaliens\ProjectileA.cpp">
+      <Filter>Source\Twaliens</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Twaliens\ProjectileA.h">
+      <Filter>Source\Twaliens</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Twaliens\Twalien.cpp">
+      <Filter>Source\Twaliens</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Twaliens\Twalien.h">
+      <Filter>Source\Twaliens</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Twaliens\Twaliens.Build.cs">
+      <Filter>Source\Twaliens</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Twaliens\Twaliens.cpp">
+      <Filter>Source\Twaliens</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Twaliens\Twaliens.h">
+      <Filter>Source\Twaliens</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Twaliens\TwaliensGameModeBase.cpp">
+      <Filter>Source\Twaliens</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Twaliens\TwaliensGameModeBase.h">
+      <Filter>Source\Twaliens</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Twaliens\Weapon.cpp">
+      <Filter>Source\Twaliens</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Twaliens\Weapon.h">
+      <Filter>Source\Twaliens</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
